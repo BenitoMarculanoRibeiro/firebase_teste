@@ -1,0 +1,27 @@
+{
+  '-Mz6McZuCkCVd1AqlL3e': {
+    'cliente': 'rodolfo',
+    'preco': 150,
+    'produto': 'teclado'
+  },
+  '-Mz6OqyhKvMVfm25J7Qw': {
+    'cliente': 'reginaldo',
+    'preco': 200,
+    'produto': 'teclado'
+  },
+  '-Mz6Or6qZuFzSzvYLvwT': {
+    'cliente': 'reginaldo',
+    'preco': 200,
+    'produto': 'teclado'
+  },
+  '-Mz6OtwXacC6WVJulUCN': {
+    'cliente': 'reginaldo',
+    'preco': 1,
+    'produto': 'teclado'
+  },
+  '-Mz6Ov71grsJLI_VB6OZ': {
+    'cliente': 'reginaldo',
+    'preco': 2,
+    'produto': 'teclado'
+  }
+}
